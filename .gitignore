@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+social-media-app/node_modules
+social-media-app/.pnp
+social-media-app/.pnp.js
+
+# testing
+social-media-app/coverage
+
+# production
+social-media-app/build
+
+# misc
+social-media-app/.DS_Store
+social-media-app/.env.local
+social-media-app/.env.development.local
+social-media-app/.env.test.local
+social-media-app/.env.production.local
+
+social-media-app/npm-debug.log*
+social-media-app/yarn-debug.log*
+social-media-app/yarn-error.log*
